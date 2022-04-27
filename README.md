@@ -1,2 +1,3 @@
-# blog-resources
-blog页面资源
+# There's nothing here.
+
+Blog static resource hosting.
